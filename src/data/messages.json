@@ -1,0 +1,999 @@
+{
+  "coverLetter": {
+    "ua": [
+      { 
+        "id": 1,
+        "type": "paragraph", 
+        "content": "Привіт, мене звати Павло, я {introduce} розробник" 
+      },
+      { 
+        "id": 2,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "Зацікавила вакансія ",
+          { "type": "text", "text": "{vacancyTitle}", "style": "bold" },
+          ", був би радий долучитись до команди ",
+          { "type": "text", "text": "{companyName}", "style": "bold" }
+        ] 
+      },
+      { 
+        "id": 3,
+        "type": "paragraph", 
+        "content": [
+          "Я володію навичками роботи з ",
+          { "type": "text", "text": "{mainTechString}", "style": "bold" },
+          ", а також ",
+          { "type": "text", "text": "{additionalTechString}", "style": "bold" },
+          ". Подивитись мої роботи можна за цими посиланнями:"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "content": [
+          "Landing page - ",
+          { "type": "link", "text": "https://goo.su/B2EbTch", "url": "https://goo.su/B2EbTch" }
+        ]
+      },
+      {
+        "id": 5,
+        "type": "paragraph",
+        "content": [
+          "Task management application - ",
+          { "type": "link", "text": "https://goo.su/EBMAg", "url": "https://goo.su/EBMAg" }
+        ]
+      },
+      { 
+        "id": 6,
+        "type": "paragraph", 
+        "content": "Phone store(Full-stack) -"
+      },
+      {
+        "id": 7,
+        "type": "list",
+        "className": "message-spacing",
+        "items": [
+          {
+            "id": "7-1",
+            "type": "listItem",
+            "content": [
+              { "type": "text", "text": "demo: " },
+              { "type": "link", "text": "https://goo.su/x1K4d", "url": "https://goo.su/x1K4d" }
+            ]
+          },
+          {
+            "id": "7-2",
+            "type": "listItem",
+            "content": [
+              { "type": "text", "text": "repo: " },
+              { "type": "link", "text": "https://goo.su/kma3Spn", "url": "https://goo.su/kma3Spn" }
+            ]
+          },
+          {
+            "id": "7-3",
+            "type": "listItem",
+            "content": [
+              { "type": "text", "text": "server: " },
+              { "type": "link", "text": "https://backend-phone-store.onrender.com", "url": "https://backend-phone-store.onrender.com" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "Трохи дізнатись про мене Ви зможете з цього короткого відео - ",
+          { "type": "link", "text": "https://goo.su/SkhJOE", "url": "https://goo.su/SkhJOE" }
+        ]
+      },
+      { 
+        "id": 9, 
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": "Буду радий виконати тестове завдання, щоб ви могли краще оцінити мої навички." 
+      },
+      { 
+        "id": 10, 
+        "type": "paragraph", 
+        "content": "Мій телефон: (096)725-17-64" 
+      },
+      {
+        "id": 11,
+        "type": "paragraph",
+        "content": [
+          "Telegram: ",
+          { "type": "link", "text": "https://t.me/pavlo_reutskiy", "url": "https://t.me/pavlo_reutskiy" }
+        ]
+      },
+      {
+        "id": 12,
+        "type": "paragraph",
+        "content": [
+          "E-mail: ",
+          { "type": "link", "text": "pavlo.reutskyi@gmail.com", "url": "mailto:pavlo.reutskyi@gmail.com" }
+        ]
+      },
+      {
+        "id": 13,
+        "type": "paragraph",
+        "content": [
+          "LinkedIn - ",
+          { "type": "link", "text": "https://goo.su/VMjPA", "url": "https://goo.su/VMjPA" }
+        ]
+      },
+      {
+        "id": 14,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "GitHub - ",
+          { "type": "link", "text": "https://github.com/PavloReutskiy", "url": "https://github.com/PavloReutskiy" }
+        ]
+      },
+      { 
+        "id": 15,
+        "type": "paragraph", 
+        "content": "Дякую за приділений час!" 
+      }
+    ],
+    "en": [
+      { 
+        "id": 16,
+        "type": "paragraph", 
+        "content": "Hello, my name is Pavlo, and I am a {introduce} developer." 
+      },
+      { 
+        "id": 17,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "I am interested in the ",
+          { "type": "text", "text": "{vacancyTitle}", "style": "bold" },
+          " position at ",
+          { "type": "text", "text": "{companyName}", "style": "bold" }
+        ] 
+      },
+      { 
+        "id": 18,
+        "type": "paragraph", 
+        "content": [
+          "I have expertise in ",
+          { "type": "text", "text": "{mainTechString}", "style": "bold" },
+          " as well as ",
+          { "type": "text", "text": "{additionalTechString}", "style": "bold" },
+          ". You can view some of my projects at the following links:"
+        ]
+      },
+      {
+        "id": 19,
+        "type": "paragraph",
+        "content": [
+          "Landing page - ",
+          { "type": "link", "text": "https://goo.su/B2EbTch", "url": "https://goo.su/B2EbTch" }
+        ]
+      },
+      {
+        "id": 20,
+        "type": "paragraph",
+        "content": [
+          "Task management application - ",
+          { "type": "link", "text": "https://goo.su/EBMAg", "url": "https://goo.su/EBMAg" }
+        ]
+      },
+      { 
+        "id": 21,
+        "type": "paragraph", 
+        "content": "Phone store(Full-stack) -"
+      },
+      {
+        "id": 22,
+        "type": "list",
+        "className": "message-spacing",
+        "items": [
+          {
+            "id": "22-1",
+            "type": "listItem",
+            "content": [
+              { "type": "text", "text": "demo: " },
+              { "type": "link", "text": "https://goo.su/x1K4d", "url": "https://goo.su/x1K4d" }
+            ]
+          },
+          {
+            "id": "22-2",
+            "type": "listItem",
+            "content": [
+              { "type": "text", "text": "repo: " },
+              { "type": "link", "text": "https://goo.su/kma3Spn", "url": "https://goo.su/kma3Spn" }
+            ]
+          },
+          {
+            "id": "22-3",
+            "type": "listItem",
+            "content": [
+              { "type": "text", "text": "server: " },
+              { "type": "link", "text": "https://backend-phone-store.onrender.com", "url": "https://backend-phone-store.onrender.com" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "You can learn a bit more about me from this short video - ",
+          { "type": "link", "text": "https://goo.su/SkhJOE", "url": "https://goo.su/SkhJOE" }
+        ]
+      },
+      { 
+        "id": 24, 
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": "I would be glad to complete a test task to better demonstrate my skills." 
+      },
+      {
+        "id": 25, 
+        "type": "paragraph", 
+        "content": "My phone number: +38(096)725-17-64" 
+      },
+      {
+        "id": 26,
+        "type": "paragraph",
+        "content": [
+          "Telegram: ",
+          { "type": "link", "text": "https://t.me/pavlo_reutskiy", "url": "https://t.me/pavlo_reutskiy" }
+        ]
+      },
+      {
+        "id": 27,
+        "type": "paragraph",
+        "content": [
+          "E-mail: ",
+          { "type": "link", "text": "pavlo.reutskyi@gmail.com", "url": "mailto:pavlo.reutskyi@gmail.com" }
+        ]
+      },
+      {
+        "id": 28,
+        "type": "paragraph",
+        "content": [
+          "LinkedIn - ",
+          { "type": "link", "text": "https://goo.su/VMjPA", "url": "https://goo.su/VMjPA" }
+        ]
+      },
+      {
+        "id": 29,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "GitHub - ",
+          { "type": "link", "text": "https://github.com/PavloReutskiy", "url": "https://github.com/PavloReutskiy" }
+        ]
+      },
+      { 
+        "id": 30,
+        "type": "paragraph", 
+        "content": "Thank you for your time!" 
+      }
+    ]
+  },
+
+  "telegramCoverLetter": {
+    "ua": [
+      { 
+        "id": 31,
+        "type": "paragraph", 
+        "content": "Вітаю, {recruiterName}!" 
+      },
+      { 
+        "id": 32,
+        "type": "paragraph", 
+        "content": "Мене звати Павло, я {introduce} розробник" 
+      },
+      { 
+        "id": 33,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "Прочитав опис вакансії ",
+          { "type": "text", "text": "{vacancyTitle}", "style": "bold" },
+          " на {platform} і був би радий долучитись до команди ",
+          { "type": "text", "text": "{companyName}", "style": "bold" }
+        ] 
+      },
+      { 
+        "id": 34,
+        "type": "paragraph", 
+        "content": [
+          "Я володію навичками роботи з ",
+          { "type": "text", "text": "{mainTechString}", "style": "bold" },
+          ", а також ",
+          { "type": "text", "text": "{additionalTechString}", "style": "bold" },
+          ". "
+        ]
+      },
+      { 
+        "id": 35,
+        "type": "paragraph", 
+        "content": "Маю досвід швидкого засвоєння нових технологій, якщо цього вимагає проєкт." 
+      },
+      {
+        "id": 36,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "Більш детальну інформацію ви знайдете в моєму резюме - ",
+          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
+        ]
+      },
+      { 
+        "id": 37,
+        "type": "paragraph", 
+        "content": "Подивитись мої роботи можна за цими посиланнями:" 
+      },
+      {
+        "id": 38,
+        "type": "paragraph",
+        "content": [
+          "Landing page - ",
+          { "type": "link", "text": "https://goo.su/B2EbTch", "url": "https://goo.su/B2EbTch" }
+        ]
+      },
+      {
+        "id": 39,
+        "type": "paragraph",
+        "content": [
+          "Task management application - ",
+          { "type": "link", "text": "https://goo.su/EBMAg", "url": "https://goo.su/EBMAg" }
+        ]
+      },
+      { 
+        "id": 40,
+        "type": "paragraph", 
+        "content": "Phone store(Full-stack) -"
+      },
+      {
+        "id": 41,
+        "type": "list",
+        "className": "message-spacing",
+        "items": [
+          {
+            "id": "41-1",
+            "type": "listItem",
+            "content": [
+              { "type": "text", "text": "demo: " },
+              { "type": "link", "text": "https://goo.su/x1K4d", "url": "https://goo.su/x1K4d" }
+            ]
+          },
+          {
+            "id": "41-2",
+            "type": "listItem",
+            "content": [
+              { "type": "text", "text": "repo: " },
+              { "type": "link", "text": "https://goo.su/kma3Spn", "url": "https://goo.su/kma3Spn" }
+            ]
+          },
+          {
+            "id": "41-3",
+            "type": "listItem",
+            "content": [
+              { "type": "text", "text": "server: " },
+              { "type": "link", "text": "https://backend-phone-store.onrender.com", "url": "https://backend-phone-store.onrender.com" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "Трохи дізнатись про мене Ви зможете з цього короткого відео - ",
+          { "type": "link", "text": "https://goo.su/SkhJOE", "url": "https://goo.su/SkhJOE" }
+        ]
+      },
+      { 
+        "id": 43, 
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": "Буду радий виконати тестове завдання, щоб ви могли краще оцінити мої навички, а також поспілкуватись особисто, якщо ми можемо назначити зустріч." 
+      },
+      { 
+        "id": 44, 
+        "type": "paragraph", 
+        "content": "Мій телефон: (096)725-17-64" 
+      },
+      {
+        "id": 45,
+        "type": "paragraph",
+        "content": [
+          "Telegram: ",
+          { "type": "link", "text": "https://t.me/pavlo_reutskiy", "url": "https://t.me/pavlo_reutskiy" }
+        ]
+      },
+      {
+        "id": 46,
+        "type": "paragraph",
+        "content": [
+          "E-mail: ",
+          { "type": "link", "text": "pavlo.reutskyi@gmail.com", "url": "mailto:pavlo.reutskyi@gmail.com" }
+        ]
+      },
+      {
+        "id": 47,
+        "type": "paragraph",
+        "content": [
+          "LinkedIn - ",
+          { "type": "link", "text": "https://goo.su/VMjPA", "url": "https://goo.su/VMjPA" }
+        ]
+      },
+      {
+        "id": 48,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "GitHub - ",
+          { "type": "link", "text": "https://github.com/PavloReutskiy", "url": "https://github.com/PavloReutskiy" }
+        ]
+      },
+      { 
+        "id": 49,
+        "type": "paragraph", 
+        "content": "Дякую за приділений час!" 
+      }
+    ],
+    "en": [
+      { 
+        "id": 50,
+        "type": "paragraph", 
+        "content": "Hello, {recruiterName}!" 
+      },
+      { 
+        "id": 51,
+        "type": "paragraph", 
+        "content": "My name is Pavlo, and I am a {introduce} developer." 
+      },
+      { 
+        "id": 52,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "I read the job description for the ",
+          { "type": "text", "text": "{vacancyTitle}", "style": "bold" },
+          " position on {platform} and would be glad to join the ",
+          { "type": "text", "text": "{companyName}", "style": "bold" },
+          " team."
+        ] 
+      },
+      { 
+        "id": 53,
+        "type": "paragraph", 
+        "content": [
+          "I have expertise in ",
+          { "type": "text", "text": "{mainTechString}", "style": "bold" },
+          " as well as ",
+          { "type": "text", "text": "{additionalTechString}", "style": "bold" },
+          ". "
+        ]
+      },
+      { 
+        "id": 54,
+        "type": "paragraph", 
+        "content": "I am good at quickly learning new technologies if the project requires it." 
+      },
+      {
+        "id": 55,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "For more information, please check out my CV - ",
+          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
+        ]
+      },
+      { 
+        "id": 56,
+        "type": "paragraph", 
+        "content": "You can view some of my projects at the following links:" 
+      },
+      {
+        "id": 57,
+        "type": "paragraph",
+        "content": [
+          "Landing page - ",
+          { "type": "link", "text": "https://goo.su/B2EbTch", "url": "https://goo.su/B2EbTch" }
+        ]
+      },
+      {
+        "id": 58,
+        "type": "paragraph",
+        "content": [
+          "Task management application - ",
+          { "type": "link", "text": "https://goo.su/EBMAg", "url": "https://goo.su/EBMAg" }
+        ]
+      },
+      { 
+        "id": 59,
+        "type": "paragraph", 
+        "content": "Phone store(Full-stack) -"
+      },
+      {
+        "id": 60,
+        "type": "list",
+        "className": "message-spacing",
+        "items": [
+          {
+            "id": "60-1",
+            "type": "listItem",
+            "content": [
+              { "type": "text", "text": "demo: " },
+              { "type": "link", "text": "https://goo.su/x1K4d", "url": "https://goo.su/x1K4d" }
+            ]
+          },
+          {
+            "id": "60-2",
+            "type": "listItem",
+            "content": [
+              { "type": "text", "text": "repo: " },
+              { "type": "link", "text": "https://goo.su/kma3Spn", "url": "https://goo.su/kma3Spn" }
+            ]
+          },
+          {
+            "id": "60-3",
+            "type": "listItem",
+            "content": [
+              { "type": "text", "text": "server: " },
+              { "type": "link", "text": "https://backend-phone-store.onrender.com", "url": "https://backend-phone-store.onrender.com" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "You can learn a bit more about me from this short video - ",
+          { "type": "link", "text": "https://goo.su/SkhJOE", "url": "https://goo.su/SkhJOE" }
+        ]
+      },
+      { 
+        "id": 62, 
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": "I would be glad to complete a test task to better demonstrate my skills, as well as to meet in person if we could arrange a meeting." 
+      },
+      { 
+        "id": 63, 
+        "type": "paragraph", 
+        "content": "My phone number: +38(096)725-17-64" 
+      },
+      {
+        "id": 64,
+        "type": "paragraph",
+        "content": [
+          "Telegram: ",
+          { "type": "link", "text": "https://t.me/pavlo_reutskiy", "url": "https://t.me/pavlo_reutskiy" }
+        ]
+      },
+      {
+        "id": 65,
+        "type": "paragraph",
+        "content": [
+          "E-mail: ",
+          { "type": "link", "text": "pavlo.reutskyi@gmail.com", "url": "mailto:pavlo.reutskyi@gmail.com" }
+        ]
+      },
+      {
+        "id": 66,
+        "type": "paragraph",
+        "content": [
+          "LinkedIn - ",
+          { "type": "link", "text": "https://goo.su/VMjPA", "url": "https://goo.su/VMjPA" }
+        ]
+      },
+      {
+        "id": 67,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "GitHub - ",
+          { "type": "link", "text": "https://github.com/PavloReutskiy", "url": "https://github.com/PavloReutskiy" }
+        ]
+      },
+      { 
+        "id": 68,
+        "type": "paragraph", 
+        "content": "Thank you for your time!" 
+      }
+    ]
+  },
+
+  "linkedInCoverLetterFrontEnd": {
+    "ua": [
+      { 
+        "id": 69,
+        "type": "paragraph",
+        "content": [
+          "Вітаю, {recruiterName}! Я - {introduce} розробник (JS/TS/React/Vue.js). Зацікавила вакансія ",
+          { "type": "text", "text": "{vacancyTitle}", "style": "bold" },
+          " в ",
+          { "type": "text", "text": "{companyName}", "style": "bold" },
+          ". Відгукнувся на {platform} і був би радий виконати тестове або поспілкуватись особисто. Чи можемо ми назначити час? Моє резюме - ",
+          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
+        ] 
+      }
+    ],
+    "en": [
+      { 
+        "id": 70,
+        "type": "paragraph",
+        "content": [
+          "Hello, {recruiterName}! I am a {introduce} developer (JS/TS/React/Vue.js). I'm interested in the ",
+          { "type": "text", "text": "{vacancyTitle}", "style": "bold" },
+          " position at ",
+          { "type": "text", "text": "{companyName}", "style": "bold" },
+          ". I applied on {platform} and would be happy to complete a test task or have a personal conversation. Can we schedule a time? Here is my resume: ",
+          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
+        ] 
+      }
+    ]
+  },
+
+  "linkedInCoverLetterBackEnd": {
+    "ua": [
+      { 
+        "id": 71,
+        "type": "paragraph",
+        "content": [
+          "Вітаю, {recruiterName}! Я - {introduce} розробник (Node.js/Express.js/ JS/TS/React). Зацікавила вакансія ",
+          { "type": "text", "text": "{vacancyTitle}", "style": "bold" },
+          " в ",
+          { "type": "text", "text": "{companyName}", "style": "bold" },
+          ". Відгукнувся на {platform} і був би радий виконати тестове або поспілкуватись особисто. Чи можемо ми назначити час? Моє резюме - ",
+          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
+        ] 
+      }
+    ],
+    "en": [
+      { 
+        "id": 72,
+        "type": "paragraph",
+        "content": [
+          "Hello, {recruiterName}! I am a {introduce} developer (Node.js/Express.js/ JS/TS/React). I'm interested in the ",
+          { "type": "text", "text": "{vacancyTitle}", "style": "bold" },
+          " position at ",
+          { "type": "text", "text": "{companyName}", "style": "bold" },
+          ". I applied on {platform} and would be happy to complete a test task or have a personal conversation. Can we schedule a time? Here is my resume: ",
+          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
+        ] 
+      }
+    ]
+  },
+
+  "coldContactEmail": {
+    "ua": [
+      { 
+        "id": 73,
+        "type": "paragraph", 
+        "content": "Привіт, мене звати Павло, я {introduce} розробник" 
+      },
+      { 
+        "id": 74,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "Хотів би долучитись до команди ",
+          { "type": "text", "text": "{companyName}", "style": "bold" },
+          ". Чи є у вас відкриті вакансії по моєму стеку?"
+        ] 
+      },
+      { 
+        "id": 75,
+        "type": "paragraph", 
+        "content": [
+          "Я володію навичками роботи з ",
+          { "type": "text", "text": "{mainTechString}", "style": "bold" },
+          ". Подивитись мої роботи можна за цими посиланнями:"
+        ]
+      },
+      {
+        "id": 76,
+        "type": "paragraph",
+        "content": [
+          "Landing page - ",
+          { "type": "link", "text": "https://goo.su/B2EbTch", "url": "https://goo.su/B2EbTch" }
+        ]
+      },
+      {
+        "id": 77,
+        "type": "paragraph",
+        "content": [
+          "Task management application - ",
+          { "type": "link", "text": "https://goo.su/EBMAg", "url": "https://goo.su/EBMAg" }
+        ]
+      },
+      { 
+        "id": 78,
+        "type": "paragraph", 
+        "content": "Phone store(Full-stack) -"
+      },
+      {
+        "id": 79,
+        "type": "list",
+        "className": "message-spacing",
+        "items": [
+          {
+            "id": "79-1",
+            "type": "listItem",
+            "content": [
+              { "type": "text", "text": "demo: " },
+              { "type": "link", "text": "https://goo.su/x1K4d", "url": "https://goo.su/x1K4d" }
+            ]
+          },
+          {
+            "id": "79-2",
+            "type": "listItem",
+            "content": [
+              { "type": "text", "text": "repo: " },
+              { "type": "link", "text": "https://goo.su/kma3Spn", "url": "https://goo.su/kma3Spn" }
+            ]
+          },
+          {
+            "id": "79-3",
+            "type": "listItem",
+            "content": [
+              { "type": "text", "text": "server: " },
+              { "type": "link", "text": "https://backend-phone-store.onrender.com", "url": "https://backend-phone-store.onrender.com" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "Трохи дізнатись про мене Ви зможете з цього короткого відео - ",
+          { "type": "link", "text": "https://goo.su/SkhJOE", "url": "https://goo.su/SkhJOE" }
+        ]
+      },
+      { 
+        "id": 81, 
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": "Я відкритий до спілкування і готовий виконати тестове завдання, щоб ви могли краще оцінити мої навички." 
+      },
+      { 
+        "id": 82, 
+        "type": "paragraph", 
+        "content": "Мій телефон: (096)725-17-64" 
+      },
+      {
+        "id": 83,
+        "type": "paragraph",
+        "content": [
+          "Telegram: ",
+          { "type": "link", "text": "https://t.me/pavlo_reutskiy", "url": "https://t.me/pavlo_reutskiy" }
+        ]
+      },
+      {
+        "id": 84,
+        "type": "paragraph",
+        "content": [
+          "E-mail: ",
+          { "type": "link", "text": "pavlo.reutskyi@gmail.com", "url": "mailto:pavlo.reutskyi@gmail.com" }
+        ]
+      },
+      {
+        "id": 85,
+        "type": "paragraph",
+        "content": [
+          "LinkedIn - ",
+          { "type": "link", "text": "https://goo.su/VMjPA", "url": "https://goo.su/VMjPA" }
+        ]
+      },
+      {
+        "id": 86,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "GitHub - ",
+          { "type": "link", "text": "https://github.com/PavloReutskiy", "url": "https://github.com/PavloReutskiy" }
+        ]
+      },
+      { 
+        "id": 87,
+        "type": "paragraph", 
+        "content": "Дякую за приділений час!" 
+      }
+    ],
+    "en": [
+      { 
+        "id": 88,
+        "type": "paragraph", 
+        "content": "Hello, my name is Pavlo, and I am a {introduce} developer." 
+      },
+      { 
+        "id": 89,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "I would like to join the ",
+          { "type": "text", "text": "{companyName}", "style": "bold" },
+          ". Do you have any open positions for my stack?"
+        ] 
+      },
+      { 
+        "id": 90,
+        "type": "paragraph", 
+        "content": [
+          "I have expertise in ",
+          { "type": "text", "text": "{mainTechString}", "style": "bold" },
+          ". You can view some of my projects at the following links:"
+        ]
+      },
+      {
+        "id": 91,
+        "type": "paragraph",
+        "content": [
+          "Landing page - ",
+          { "type": "link", "text": "https://goo.su/B2EbTch", "url": "https://goo.su/B2EbTch" }
+        ]
+      },
+      {
+        "id": 92,
+        "type": "paragraph",
+        "content": [
+          "Task management application - ",
+          { "type": "link", "text": "https://goo.su/EBMAg", "url": "https://goo.su/EBMAg" }
+        ]
+      },
+      { 
+        "id": 93,
+        "type": "paragraph", 
+        "content": "Phone store(Full-stack) -"
+      },
+      {
+        "id": 94,
+        "type": "list",
+        "className": "message-spacing",
+        "items": [
+          {
+            "id": "94-1",
+            "type": "listItem",
+            "content": [
+              { "type": "text", "text": "demo: " },
+              { "type": "link", "text": "https://goo.su/x1K4d", "url": "https://goo.su/x1K4d" }
+            ]
+          },
+          {
+            "id": "94-2",
+            "type": "listItem",
+            "content": [
+              { "type": "text", "text": "repo: " },
+              { "type": "link", "text": "https://goo.su/kma3Spn", "url": "https://goo.su/kma3Spn" }
+            ]
+          },
+          {
+            "id": "94-3",
+            "type": "listItem",
+            "content": [
+              { "type": "text", "text": "server: " },
+              { "type": "link", "text": "https://backend-phone-store.onrender.com", "url": "https://backend-phone-store.onrender.com" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 95,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "You can learn a bit more about me from this short video - ",
+          { "type": "link", "text": "https://goo.su/SkhJOE", "url": "https://goo.su/SkhJOE" }
+        ]
+      },
+      { 
+        "id": 96, 
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": "I would be glad to complete a test task to better demonstrate my skills." 
+      },
+      {
+        "id": 97, 
+        "type": "paragraph", 
+        "content": "My phone number: +38(096)725-17-64" 
+      },
+      {
+        "id": 98,
+        "type": "paragraph",
+        "content": [
+          "Telegram: ",
+          { "type": "link", "text": "https://t.me/pavlo_reutskiy", "url": "https://t.me/pavlo_reutskiy" }
+        ]
+      },
+      {
+        "id": 99,
+        "type": "paragraph",
+        "content": [
+          "E-mail: ",
+          { "type": "link", "text": "pavlo.reutskyi@gmail.com", "url": "mailto:pavlo.reutskyi@gmail.com" }
+        ]
+      },
+      {
+        "id": 100,
+        "type": "paragraph",
+        "content": [
+          "LinkedIn - ",
+          { "type": "link", "text": "https://goo.su/VMjPA", "url": "https://goo.su/VMjPA" }
+        ]
+      },
+      {
+        "id": 101,
+        "type": "paragraph",
+        "className": "message-spacing",
+        "content": [
+          "GitHub - ",
+          { "type": "link", "text": "https://github.com/PavloReutskiy", "url": "https://github.com/PavloReutskiy" }
+        ]
+      },
+      { 
+        "id": 102,
+        "type": "paragraph", 
+        "content": "Thank you for your time!" 
+      }
+    ]
+  },
+
+  "linkedInColdContact": {
+    "ua": [
+      { 
+        "id": 103,
+        "type": "paragraph",
+        "content": [
+          "Вітаю, {recruiterName}! Я - {introduce} розробник (JS/TS/React/Node.js/ Express.js). Хотів би долучитись до команди ",
+          { "type": "text", "text": "{companyName}", "style": "bold" },
+          ". Чи є у вас відкриті вакансії по моєму стеку? Був би радий виконати тестове або поспілкуватись особисто. ​​Чи можемо ми назначити час? Моє резюме - ",
+          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
+        ] 
+      }
+    ],
+    "en": [
+      { 
+        "id": 104,
+        "type": "paragraph",
+        "content": [
+          "Hello, {recruiterName}! I am a {introduce} developer (JS/TS/React/Node.js/ Express.js). I would like to join the ",
+          { "type": "text", "text": "{companyName}", "style": "bold" },
+          " team. Are there any open positions related to my stack? I would be happy to complete a test task or have a personal conversation. Can we arrange a time? Here is my resume: ",
+          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
+        ] 
+      }
+    ]
+  },
+
+  "linkedInColdContactFreelancer": {
+    "ua": [
+      { 
+        "id": 103,
+        "type": "paragraph",
+        "content": [
+          "Вітаю, {recruiterName}! Я - {introduce} розробник (JS/TS/React/Node.js/Express.js). Хотів поцікавитись чи є відкриті позиції по моєму стеку? Був би радий виконати тестове або поспілкуватись особисто. Моє резюме - ",
+          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
+        ] 
+      }
+    ],
+    "en": [
+      { 
+        "id": 104,
+        "type": "paragraph",
+        "content": [
+          "Hello, {recruiterName}! I am a {introduce} developer (JS/TS/React/Node.js/Express.js). I was wondering if there are any open positions related to my stack? I would be happy to complete a test task or have a personal conversation. Here is my resume: ",
+          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
+        ] 
+      }
+    ]
+  }
+}

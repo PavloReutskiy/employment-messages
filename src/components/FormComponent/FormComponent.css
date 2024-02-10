@@ -1,0 +1,46 @@
+.form {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+  padding: 32px 0;
+  margin-bottom: 32px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  justify-content: space-between;
+}
+
+.formControl {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+}
+
+.formControl .checkbox-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  justify-content: space-between;
+  margin-bottom: 0;
+  gap: 5px 10px;
+}
+
+.formControl .checkbox-grid:first-of-type {
+  margin-bottom: 16px;
+}
+
+.extra-technologies {
+  align-self: stretch;
+  max-width: 400px;
+}
+
+.comment {
+  color: var(--comment-text-color);
+  margin-top: -4px;
+}
+
+.button {
+  max-width: 120px;
+}

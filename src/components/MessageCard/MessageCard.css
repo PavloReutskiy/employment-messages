@@ -1,0 +1,38 @@
+.message-wrapper {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.message-heading {
+  display: flex;
+  justify-content: space-between;
+  background-color: var(--main-color);
+  padding: 8px 16px;
+  border-radius: 10px 10px 0 0;
+}
+
+.message-type {
+  color: white;
+  font-size: 16px;
+  margin: 0;
+}
+
+.copy-button {
+  all: initial;
+  cursor: pointer;
+  color: white;
+  font-family: inherit;
+}
+
+.message
+.message-text {
+  white-space: pre-wrap;
+}
+
+.message {
+  padding: 16px;
+  background-color:var(--message-background-color);
+  border-radius: 0 0 10px 10px;
+  height: 100%;
+}
