@@ -24,70 +24,13 @@
           "Я володію навичками роботи з ",
           { "type": "text", "text": "{mainTechString}", "style": "bold" },
           ", а також ",
-          { "type": "text", "text": "{additionalTechString}", "style": "bold" },
-          ". Подивитись мої роботи можна за цими посиланнями:"
-        ]
-      },
-      {
-        "id": 4,
-        "type": "paragraph",
-        "content": [
-          "Landing page - ",
-          { "type": "link", "text": "https://goo.su/B2EbTch", "url": "https://goo.su/B2EbTch" }
-        ]
-      },
-      {
-        "id": 5,
-        "type": "paragraph",
-        "content": [
-          "Task management application - ",
-          { "type": "link", "text": "https://goo.su/EBMAg", "url": "https://goo.su/EBMAg" }
+          { "type": "text", "text": "{additionalTechString}", "style": "bold" }
         ]
       },
       { 
-        "id": 6,
+        "id": 4,
         "type": "paragraph", 
-        "content": "Phone store(Full-stack) -"
-      },
-      {
-        "id": 7,
-        "type": "list",
-        "className": "message-spacing",
-        "items": [
-          {
-            "id": "7-1",
-            "type": "listItem",
-            "content": [
-              { "type": "text", "text": "demo: " },
-              { "type": "link", "text": "https://goo.su/x1K4d", "url": "https://goo.su/x1K4d" }
-            ]
-          },
-          {
-            "id": "7-2",
-            "type": "listItem",
-            "content": [
-              { "type": "text", "text": "repo: " },
-              { "type": "link", "text": "https://goo.su/kma3Spn", "url": "https://goo.su/kma3Spn" }
-            ]
-          },
-          {
-            "id": "7-3",
-            "type": "listItem",
-            "content": [
-              { "type": "text", "text": "server: " },
-              { "type": "link", "text": "https://backend-phone-store.onrender.com", "url": "https://backend-phone-store.onrender.com" }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 8,
-        "type": "paragraph",
-        "className": "message-spacing",
-        "content": [
-          "Трохи дізнатись про мене Ви зможете з цього короткого відео - ",
-          { "type": "link", "text": "https://goo.su/SkhJOE", "url": "https://goo.su/SkhJOE" }
-        ]
+        "content": "\nМій комерційний досвід налічує декілька успішних проєктів різного рівня складності, виконаних як індивідуально, так і в команді розробників." 
       },
       { 
         "id": 9, 
@@ -163,76 +106,20 @@
           "I have expertise in ",
           { "type": "text", "text": "{mainTechString}", "style": "bold" },
           " as well as ",
-          { "type": "text", "text": "{additionalTechString}", "style": "bold" },
-          ". You can view some of my projects at the following links:"
-        ]
-      },
-      {
-        "id": 19,
-        "type": "paragraph",
-        "content": [
-          "Landing page - ",
-          { "type": "link", "text": "https://goo.su/B2EbTch", "url": "https://goo.su/B2EbTch" }
-        ]
-      },
-      {
-        "id": 20,
-        "type": "paragraph",
-        "content": [
-          "Task management application - ",
-          { "type": "link", "text": "https://goo.su/EBMAg", "url": "https://goo.su/EBMAg" }
+          { "type": "text", "text": "{additionalTechString}", "style": "bold" }
         ]
       },
       { 
-        "id": 21,
+        "id": 19,
         "type": "paragraph", 
-        "content": "Phone store(Full-stack) -"
+        "content": "\nMy commercial experience includes several successful projects of various levels of complexity, completed both individually and as part of a development team." 
       },
-      {
-        "id": 22,
-        "type": "list",
-        "className": "message-spacing",
-        "items": [
-          {
-            "id": "22-1",
-            "type": "listItem",
-            "content": [
-              { "type": "text", "text": "demo: " },
-              { "type": "link", "text": "https://goo.su/x1K4d", "url": "https://goo.su/x1K4d" }
-            ]
-          },
-          {
-            "id": "22-2",
-            "type": "listItem",
-            "content": [
-              { "type": "text", "text": "repo: " },
-              { "type": "link", "text": "https://goo.su/kma3Spn", "url": "https://goo.su/kma3Spn" }
-            ]
-          },
-          {
-            "id": "22-3",
-            "type": "listItem",
-            "content": [
-              { "type": "text", "text": "server: " },
-              { "type": "link", "text": "https://backend-phone-store.onrender.com", "url": "https://backend-phone-store.onrender.com" }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 23,
-        "type": "paragraph",
-        "className": "message-spacing",
-        "content": [
-          "You can learn a bit more about me from this short video - ",
-          { "type": "link", "text": "https://goo.su/SkhJOE", "url": "https://goo.su/SkhJOE" }
-        ]
-      },
+      
       { 
         "id": 24, 
         "type": "paragraph",
         "className": "message-spacing",
-        "content": "I would be glad to complete a test task to better demonstrate my skills." 
+        "content": "\nI would be glad to complete a test task to better demonstrate my skills." 
       },
       {
         "id": 25, 
@@ -317,7 +204,7 @@
       { 
         "id": 35,
         "type": "paragraph", 
-        "content": "Маю досвід швидкого засвоєння нових технологій, якщо цього вимагає проєкт." 
+        "content": "\nМій комерційний досвід налічує декілька успішних проєктів різного рівня складності, виконаних як індивідуально, так і в команді розробників. \n\nМаю досвід швидкого засвоєння нових технологій, якщо цього вимагає проєкт." 
       },
       {
         "id": 36,
@@ -325,75 +212,10 @@
         "className": "message-spacing",
         "content": [
           "Більш детальну інформацію ви знайдете в моєму резюме - ",
-          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
+          { "type": "link", "text": "https://goo.su/XeGzeJ", "url": "https://goo.su/XeGzeJ" }
         ]
       },
-      { 
-        "id": 37,
-        "type": "paragraph", 
-        "content": "Подивитись мої роботи можна за цими посиланнями:" 
-      },
-      {
-        "id": 38,
-        "type": "paragraph",
-        "content": [
-          "Landing page - ",
-          { "type": "link", "text": "https://goo.su/B2EbTch", "url": "https://goo.su/B2EbTch" }
-        ]
-      },
-      {
-        "id": 39,
-        "type": "paragraph",
-        "content": [
-          "Task management application - ",
-          { "type": "link", "text": "https://goo.su/EBMAg", "url": "https://goo.su/EBMAg" }
-        ]
-      },
-      { 
-        "id": 40,
-        "type": "paragraph", 
-        "content": "Phone store(Full-stack) -"
-      },
-      {
-        "id": 41,
-        "type": "list",
-        "className": "message-spacing",
-        "items": [
-          {
-            "id": "41-1",
-            "type": "listItem",
-            "content": [
-              { "type": "text", "text": "demo: " },
-              { "type": "link", "text": "https://goo.su/x1K4d", "url": "https://goo.su/x1K4d" }
-            ]
-          },
-          {
-            "id": "41-2",
-            "type": "listItem",
-            "content": [
-              { "type": "text", "text": "repo: " },
-              { "type": "link", "text": "https://goo.su/kma3Spn", "url": "https://goo.su/kma3Spn" }
-            ]
-          },
-          {
-            "id": "41-3",
-            "type": "listItem",
-            "content": [
-              { "type": "text", "text": "server: " },
-              { "type": "link", "text": "https://backend-phone-store.onrender.com", "url": "https://backend-phone-store.onrender.com" }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 42,
-        "type": "paragraph",
-        "className": "message-spacing",
-        "content": [
-          "Трохи дізнатись про мене Ви зможете з цього короткого відео - ",
-          { "type": "link", "text": "https://goo.su/SkhJOE", "url": "https://goo.su/SkhJOE" }
-        ]
-      },
+      
       { 
         "id": 43, 
         "type": "paragraph",
@@ -478,84 +300,23 @@
           ". "
         ]
       },
-      { 
+      {
         "id": 54,
+        "type": "paragraph",
+        "content": "\nMy commercial experience includes several successful projects of various levels of complexity, completed both individually and as part of a development team." 
+      },
+      { 
+        "id": 55,
         "type": "paragraph", 
-        "content": "I am good at quickly learning new technologies if the project requires it." 
+        "content": "\nI am good at quickly learning new technologies if the project requires it." 
       },
       {
-        "id": 55,
+        "id": 56,
         "type": "paragraph",
         "className": "message-spacing",
         "content": [
           "For more information, please check out my CV - ",
-          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
-        ]
-      },
-      { 
-        "id": 56,
-        "type": "paragraph", 
-        "content": "You can view some of my projects at the following links:" 
-      },
-      {
-        "id": 57,
-        "type": "paragraph",
-        "content": [
-          "Landing page - ",
-          { "type": "link", "text": "https://goo.su/B2EbTch", "url": "https://goo.su/B2EbTch" }
-        ]
-      },
-      {
-        "id": 58,
-        "type": "paragraph",
-        "content": [
-          "Task management application - ",
-          { "type": "link", "text": "https://goo.su/EBMAg", "url": "https://goo.su/EBMAg" }
-        ]
-      },
-      { 
-        "id": 59,
-        "type": "paragraph", 
-        "content": "Phone store(Full-stack) -"
-      },
-      {
-        "id": 60,
-        "type": "list",
-        "className": "message-spacing",
-        "items": [
-          {
-            "id": "60-1",
-            "type": "listItem",
-            "content": [
-              { "type": "text", "text": "demo: " },
-              { "type": "link", "text": "https://goo.su/x1K4d", "url": "https://goo.su/x1K4d" }
-            ]
-          },
-          {
-            "id": "60-2",
-            "type": "listItem",
-            "content": [
-              { "type": "text", "text": "repo: " },
-              { "type": "link", "text": "https://goo.su/kma3Spn", "url": "https://goo.su/kma3Spn" }
-            ]
-          },
-          {
-            "id": "60-3",
-            "type": "listItem",
-            "content": [
-              { "type": "text", "text": "server: " },
-              { "type": "link", "text": "https://backend-phone-store.onrender.com", "url": "https://backend-phone-store.onrender.com" }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 61,
-        "type": "paragraph",
-        "className": "message-spacing",
-        "content": [
-          "You can learn a bit more about me from this short video - ",
-          { "type": "link", "text": "https://goo.su/SkhJOE", "url": "https://goo.su/SkhJOE" }
+          { "type": "link", "text": "https://goo.su/XeGzeJ", "url": "https://goo.su/XeGzeJ" }
         ]
       },
       { 
@@ -616,12 +377,12 @@
         "id": 69,
         "type": "paragraph",
         "content": [
-          "Вітаю, {recruiterName}! Я - {introduce} розробник (JS/TS/React/Vue.js). Зацікавила вакансія ",
+          "Вітаю, {recruiterName}! Я - {introduce} розробник (JS/TS/React). Зацікавила вакансія ",
           { "type": "text", "text": "{vacancyTitle}", "style": "bold" },
           " в ",
           { "type": "text", "text": "{companyName}", "style": "bold" },
           ". Відгукнувся на {platform} і був би радий виконати тестове або поспілкуватись особисто. Чи можемо ми назначити час? Моє резюме - ",
-          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
+          { "type": "link", "text": "https://goo.su/XeGzeJ", "url": "https://goo.su/XeGzeJ" }
         ] 
       }
     ],
@@ -630,12 +391,12 @@
         "id": 70,
         "type": "paragraph",
         "content": [
-          "Hello, {recruiterName}! I am a {introduce} developer (JS/TS/React/Vue.js). I'm interested in the ",
+          "Hello, {recruiterName}! I am a {introduce} developer (JS/TS/React). I'm interested in the ",
           { "type": "text", "text": "{vacancyTitle}", "style": "bold" },
           " position at ",
           { "type": "text", "text": "{companyName}", "style": "bold" },
           ". I applied on {platform} and would be happy to complete a test task or have a personal conversation. Can we schedule a time? Here is my resume: ",
-          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
+          { "type": "link", "text": "https://goo.su/XeGzeJ", "url": "https://goo.su/XeGzeJ" }
         ] 
       }
     ]
@@ -652,7 +413,7 @@
           " в ",
           { "type": "text", "text": "{companyName}", "style": "bold" },
           ". Відгукнувся на {platform} і був би радий виконати тестове або поспілкуватись особисто. Чи можемо ми назначити час? Моє резюме - ",
-          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
+          { "type": "link", "text": "https://goo.su/XeGzeJ", "url": "https://goo.su/XeGzeJ" }
         ] 
       }
     ],
@@ -666,7 +427,7 @@
           " position at ",
           { "type": "text", "text": "{companyName}", "style": "bold" },
           ". I applied on {platform} and would be happy to complete a test task or have a personal conversation. Can we schedule a time? Here is my resume: ",
-          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
+          { "type": "link", "text": "https://goo.su/XeGzeJ", "url": "https://goo.su/XeGzeJ" }
         ] 
       }
     ]
@@ -694,76 +455,14 @@
         "type": "paragraph", 
         "content": [
           "Я володію навичками роботи з ",
-          { "type": "text", "text": "{mainTechString}", "style": "bold" },
-          ". Подивитись мої роботи можна за цими посиланнями:"
-        ]
-      },
-      {
-        "id": 76,
-        "type": "paragraph",
-        "content": [
-          "Landing page - ",
-          { "type": "link", "text": "https://goo.su/B2EbTch", "url": "https://goo.su/B2EbTch" }
-        ]
-      },
-      {
-        "id": 77,
-        "type": "paragraph",
-        "content": [
-          "Task management application - ",
-          { "type": "link", "text": "https://goo.su/EBMAg", "url": "https://goo.su/EBMAg" }
-        ]
-      },
-      { 
-        "id": 78,
-        "type": "paragraph", 
-        "content": "Phone store(Full-stack) -"
-      },
-      {
-        "id": 79,
-        "type": "list",
-        "className": "message-spacing",
-        "items": [
-          {
-            "id": "79-1",
-            "type": "listItem",
-            "content": [
-              { "type": "text", "text": "demo: " },
-              { "type": "link", "text": "https://goo.su/x1K4d", "url": "https://goo.su/x1K4d" }
-            ]
-          },
-          {
-            "id": "79-2",
-            "type": "listItem",
-            "content": [
-              { "type": "text", "text": "repo: " },
-              { "type": "link", "text": "https://goo.su/kma3Spn", "url": "https://goo.su/kma3Spn" }
-            ]
-          },
-          {
-            "id": "79-3",
-            "type": "listItem",
-            "content": [
-              { "type": "text", "text": "server: " },
-              { "type": "link", "text": "https://backend-phone-store.onrender.com", "url": "https://backend-phone-store.onrender.com" }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 80,
-        "type": "paragraph",
-        "className": "message-spacing",
-        "content": [
-          "Трохи дізнатись про мене Ви зможете з цього короткого відео - ",
-          { "type": "link", "text": "https://goo.su/SkhJOE", "url": "https://goo.su/SkhJOE" }
+          { "type": "text", "text": "{mainTechString}", "style": "bold" }
         ]
       },
       { 
         "id": 81, 
         "type": "paragraph",
         "className": "message-spacing",
-        "content": "Я відкритий до спілкування і готовий виконати тестове завдання, щоб ви могли краще оцінити мої навички." 
+        "content": "\nЯ відкритий до спілкування і готовий виконати тестове завдання, щоб ви могли краще оцінити мої навички." 
       },
       { 
         "id": 82, 
@@ -830,76 +529,14 @@
         "type": "paragraph", 
         "content": [
           "I have expertise in ",
-          { "type": "text", "text": "{mainTechString}", "style": "bold" },
-          ". You can view some of my projects at the following links:"
-        ]
-      },
-      {
-        "id": 91,
-        "type": "paragraph",
-        "content": [
-          "Landing page - ",
-          { "type": "link", "text": "https://goo.su/B2EbTch", "url": "https://goo.su/B2EbTch" }
-        ]
-      },
-      {
-        "id": 92,
-        "type": "paragraph",
-        "content": [
-          "Task management application - ",
-          { "type": "link", "text": "https://goo.su/EBMAg", "url": "https://goo.su/EBMAg" }
-        ]
-      },
-      { 
-        "id": 93,
-        "type": "paragraph", 
-        "content": "Phone store(Full-stack) -"
-      },
-      {
-        "id": 94,
-        "type": "list",
-        "className": "message-spacing",
-        "items": [
-          {
-            "id": "94-1",
-            "type": "listItem",
-            "content": [
-              { "type": "text", "text": "demo: " },
-              { "type": "link", "text": "https://goo.su/x1K4d", "url": "https://goo.su/x1K4d" }
-            ]
-          },
-          {
-            "id": "94-2",
-            "type": "listItem",
-            "content": [
-              { "type": "text", "text": "repo: " },
-              { "type": "link", "text": "https://goo.su/kma3Spn", "url": "https://goo.su/kma3Spn" }
-            ]
-          },
-          {
-            "id": "94-3",
-            "type": "listItem",
-            "content": [
-              { "type": "text", "text": "server: " },
-              { "type": "link", "text": "https://backend-phone-store.onrender.com", "url": "https://backend-phone-store.onrender.com" }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 95,
-        "type": "paragraph",
-        "className": "message-spacing",
-        "content": [
-          "You can learn a bit more about me from this short video - ",
-          { "type": "link", "text": "https://goo.su/SkhJOE", "url": "https://goo.su/SkhJOE" }
+          { "type": "text", "text": "{mainTechString}", "style": "bold" }
         ]
       },
       { 
         "id": 96, 
         "type": "paragraph",
         "className": "message-spacing",
-        "content": "I would be glad to complete a test task to better demonstrate my skills." 
+        "content": "\nI would be glad to complete a test task to better demonstrate my skills." 
       },
       {
         "id": 97, 
@@ -956,7 +593,7 @@
           "Вітаю, {recruiterName}! Я - {introduce} розробник (JS/TS/React/Node.js/ Express.js). Хотів би долучитись до команди ",
           { "type": "text", "text": "{companyName}", "style": "bold" },
           ". Чи є у вас відкриті вакансії по моєму стеку? Був би радий виконати тестове або поспілкуватись особисто. ​​Чи можемо ми назначити час? Моє резюме - ",
-          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
+          { "type": "link", "text": "https://goo.su/XeGzeJ", "url": "https://goo.su/XeGzeJ" }
         ] 
       }
     ],
@@ -968,7 +605,7 @@
           "Hello, {recruiterName}! I am a {introduce} developer (JS/TS/React/Node.js/ Express.js). I would like to join the ",
           { "type": "text", "text": "{companyName}", "style": "bold" },
           " team. Are there any open positions related to my stack? I would be happy to complete a test task or have a personal conversation. Can we arrange a time? Here is my resume: ",
-          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
+          { "type": "link", "text": "https://goo.su/XeGzeJ", "url": "https://goo.su/XeGzeJ" }
         ] 
       }
     ]
@@ -981,7 +618,7 @@
         "type": "paragraph",
         "content": [
           "Вітаю, {recruiterName}! Я - {introduce} розробник (JS/TS/React/Node.js/Express.js). Хотів поцікавитись чи є відкриті позиції по моєму стеку? Був би радий виконати тестове або поспілкуватись особисто. Моє резюме - ",
-          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
+          { "type": "link", "text": "https://goo.su/XeGzeJ", "url": "https://goo.su/XeGzeJ" }
         ] 
       }
     ],
@@ -991,7 +628,7 @@
         "type": "paragraph",
         "content": [
           "Hello, {recruiterName}! I am a {introduce} developer (JS/TS/React/Node.js/Express.js). I was wondering if there are any open positions related to my stack? I would be happy to complete a test task or have a personal conversation. Here is my resume: ",
-          { "type": "link", "text": "https://goo.su/SqH2D3S", "url": "https://goo.su/SqH2D3S" }
+          { "type": "link", "text": "https://goo.su/XeGzeJ", "url": "https://goo.su/XeGzeJ" }
         ] 
       }
     ]
